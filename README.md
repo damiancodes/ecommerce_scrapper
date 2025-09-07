@@ -4,14 +4,14 @@ A comprehensive web scraper for extracting product data from Romantix.co.ke, inc
 
 ## Features
 
-- 🛡️ **Anti-blocking measures**: Random user agents, delays, and request rotation
-- 🔄 **Multiple scraping methods**: BeautifulSoup + Requests and Selenium WebDriver
-- 📊 **Web Dashboard**: Beautiful red/white themed dashboard for data visualization
-- 📁 **Multiple export formats**: CSV and JSON export options
-- 🐳 **Docker support**: Easy deployment with Docker and Docker Compose
-- 📱 **Responsive design**: Mobile-friendly dashboard interface
-- 🔍 **Advanced filtering**: Search, category, and price range filtering
-- 📈 **Real-time statistics**: Product counts, categories, and price ranges
+-  **Anti-blocking measures**: Random user agents, delays, and request rotation
+-  **Multiple scraping methods**: BeautifulSoup + Requests and Selenium WebDriver
+-  **Web Dashboard**: Beautiful red/white themed dashboard for data visualization
+-  **Multiple export formats**: CSV and JSON export options
+-  **Docker support**: Easy deployment with Docker and Docker Compose
+-  **Responsive design**: Mobile-friendly dashboard interface
+-  **Advanced filtering**: Search, category, and price range filtering
+-  **Real-time statistics**: Product counts, categories, and price ranges
 
 ## Quick Start
 
@@ -243,4 +243,4 @@ For issues and questions:
 
 ---
 
-**Happy Scraping! 🚀**
+**Happy Scraping! **
