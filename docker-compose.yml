@@ -1,0 +1,13 @@
+services:
+  dashboard:
+    build: .
+    container_name: romantix-dashboard
+    ports:
+      - "8080:8080"
+    command: ["python", "dashboard.py"]
+    networks:
+      - scraper-network
+
+networks:
+  scraper-network:
+    driver: bridge
